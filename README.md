@@ -11,5 +11,8 @@ Then the next page will be the first question and the user has options to choose
 <img width="860" alt="Start Page" src="https://github.com/zahrahali1/week-4-Code-Quiz-challenge/assets/103753424/d5bb3f98-1927-4c25-8f06-590194a844fe">
 You can see here that when the user clicks on the answer it will show at the bottom if its correct or wrong
 <img width="1157" alt="Screenshot 2024-02-14 at 23 14 51" src="https://github.com/zahrahali1/week-4-Code-Quiz-challenge/assets/103753424/4e948533-0e84-4c31-99bf-10e3f9117165">
+Here it shows the score when the quiz is over:
+<img width="842" alt="Screenshot 2024-02-15 at 09 36 57" src="https://github.com/zahrahali1/week-4-Code-Quiz-challenge/assets/103753424/55948489-2a07-4d27-9364-e9cd08b306f3">
+
 
 
